@@ -1,4 +1,4 @@
-## Oi eu sou o Thiago Martins 👋
+## Oi eu sou o Thiago Martins 
 
 Meu nome é Thiago luiz pereira martins da silva, tenho 19 anos e sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)** na **UNIFAFIRE – Pernambuco**. Tenho grande interesse em desenvolvimento web e backend, com experiência e estudos em Python e Java (básico). Busco constantemente aprimorar minhas habilidades, aprender novas tecnologias e contribuir com projetos que impactem positivamente as pessoas.
 
